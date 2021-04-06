@@ -5,13 +5,12 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Tanmay Munigala" width="200">
 
-# About
+# Hey guys! I'm Tanmay
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a final-year software engineering student at the Faculty of Engineering and Information Technology (FEIT) at the University of Technology, Sydney. 
+
+As a software engineer, I offer a diverse skill set, with proficiency and experience in languages such C#, Java, Python and SQL, web-frameworks like ASP.NET, Angular and React, and am continually working on expanding it by taking on challenging projects, be it through competitions, personal challenges and goals.
+
+As a means of empowering others with the skill set I am continuously building, I write articles on LinkedIn relating to software development and personal development. I invite you to read, share and give me honest feedback on them so that I can serve my readers better.

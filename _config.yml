@@ -1,6 +1,7 @@
 # Site Settings
 name: Tanmay Munigala
 title: Tanmay Munigala | Learning. Sharing. Growing.
+subtitle: Learning. Sharing. Growing.
 description: Personal Blog built using Jekyll
 tags:
   - blog
@@ -14,10 +15,6 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: tanmay.munigala@gmail.com
 disqus_username: disqus_username
 
@@ -25,11 +22,8 @@ disqus_username: disqus_username
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: tanmaymunigala
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+twitter_username: MunigalaTanmay
+linkedin_username: tanmay-munigala
 
 
 # Posts Settings

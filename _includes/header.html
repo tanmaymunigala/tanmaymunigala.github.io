@@ -11,6 +11,11 @@
             {% endif %}
         </a>
     </h1>
+    <h3 class="logo subtitle">
+        {% if site.subtitle %}
+            {{ site.subtitle }}
+        {% endif %}
+    </h3>
     <a id="search" class="dosearch" role="button">
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
